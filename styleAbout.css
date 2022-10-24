@@ -1,0 +1,100 @@
+
+body{
+	background-image: url("back2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0px;
+  padding: 0px;
+}
+
+.mainContent {
+  background: #ddd none repeat scroll 0 0;
+  border-radius: 20px;
+  height: 550px;
+  margin-left: 418px;
+  margin-top: 50px;
+  opacity: 0.2;
+  overflow: hidden;
+  position: relative;
+  width: 900px;
+}
+
+.line {
+  background: #590404 none repeat scroll 0 0;
+  height: 550px;
+  left: 1226px;
+  position: absolute;
+  top: 50px;
+  width: 100px;
+}
+
+
+
+.logo {
+  left: 47px;
+  position: absolute;
+  top: 44px;
+}
+
+.logo >a> img {
+  height: 121px;
+  width: 197px;
+}
+
+
+
+
+.menu {
+  left: -40px;
+  position: absolute;
+  top: 248px;
+}
+
+.menu li {
+  background: #ddd none repeat scroll 0 0;
+  display: block;
+  margin-bottom: 5px;
+  opacity: 0.38;
+  padding: 20px 39px 20px 37px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.menu a {
+  color: black;
+  font-family: Verdana;
+  font-size: 22px;  
+}
+
+
+
+
+.mainContent2 h1 {
+  color: white;
+  font-family: Comic Sans MS;
+  margin-bottom: 32px;
+}
+
+.mainContent2 {
+  left: 466px;
+  position: absolute;
+  top: 96px;
+}
+
+.menu li:hover { 
+    background: white;
+    opacity: 1.0;
+}
+
+.menu a:hover { 
+    text-decoration: none;
+}
+
+.mainContent2 > p {
+  width: 600px;
+  color: white;
+  font-family: "Trebuchet MS";
+  font-size: 20px;
+  text-align: justify;
+  margin-left: 60px;
+}
