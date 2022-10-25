@@ -5,18 +5,16 @@ The project “Quick Parcel” is a web-based system, that serves people by deli
 
 
 #Requirements
-
- => HTML5, CSS5
- => BOOTSTRAP 3
- => PHP7 and above
- => XAMPP development environment
+=> HTML5, CSS5
+=> BOOTSTRAP 3
+=> PHP7 and above
+=> XAMPP development environment
  
 #Installation
-
- => First install the XAMPP development software. Then press the start button of Apache and MySQL module in "XAMPP Control Panel".
- => Create a new folder named "Final_project" in C:\xampp\htdocs and move all files on that folder.
- => Create a new database named "final_project" in http://localhost/phpmyadmin/ , then import database file "final_project.sql".
- => Then run http://localhost/final_project/ in your browser.
+=> First install the XAMPP development software. Then press the start button of Apache and MySQL module in "XAMPP Control Panel".
+=> Create a new folder named "Final_project" in C:\xampp\htdocs and move all files on that folder.
+=> Create a new database named "final_project" in http://localhost/phpmyadmin/ , then import database file "final_project.sql".
+=> Then run http://localhost/final_project/ in your browser.
   
 
 #Usage
