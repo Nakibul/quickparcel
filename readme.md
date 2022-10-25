@@ -25,6 +25,8 @@ The project “Quick Parcel” is a web-based system, that serves people by deli
 => Create a new database named "final_project" in http://localhost/phpmyadmin/ , then import database file "final_project.sql".
 
 => Then run http://localhost/final_project/ in your browser.
+
+For accessing Admin page use Username as "admin" and Password as "admin".
   
 
 #Usage
